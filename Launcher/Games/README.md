@@ -48,7 +48,7 @@
         - **Ascending (A-Z, lowest to highest playtime, oldest to newest played, oldest to newest installed):** CTRL + PgUp
 
 - **Settings**
-    - See [/Launcher/Settings/README.md](/Launcher/Settings/README.md)
+    - See [Settings](../Settings/README.md)
 
 ## Example user flows
 

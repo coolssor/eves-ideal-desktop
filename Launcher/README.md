@@ -37,7 +37,7 @@
 - Emojis
     - **Shortcut:** Super + .
 
-## [Games](/Launcher/Games/README.md)
+## [Games](Games/README.md)
 **Shortcut:** Super + G
 - Launchers
 - Installed
