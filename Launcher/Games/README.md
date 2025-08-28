@@ -2,16 +2,16 @@
 
 [Go back](../README.md)
 
+> [!IMPORTANT]
+>
+> - **Plaintext:** Regular entry
+> - **[Square brackets]:** User-interactable entry
+
 ## Shortcut
 
 Super + G
 
 ## Sections
-
-> [!IMPORTANT]
->
-> - **Plaintext:** Regular entry
-> - **[Square brackets]:** User-interactable entry
 
 - **\[Search\]**
   - Give textbox immediately, show suggestions below
