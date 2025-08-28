@@ -1,54 +1,58 @@
+# Games
+
 [Go back](../README.md)
 
+## Shortcut
+
+Super + G
+
+## Sections
+
 > [!IMPORTANT]
+>
 > - **Plaintext:** Regular entry
 > - **[Square brackets]:** User-interactable entry
 
-# Games
-
-**Shortcut:** Super + G
-
-## Sections
 - **\[Search\]**
-    - Give textbox immediately, show suggestions below
-    - Search by name or genre
-        - Installed games show `✓`
-        - Uninstalled games show no icon
-    - Suggestions based on:
-        - Genre (Shooter, RPG, puzzle, etc)
-        - Setting (Sci-fi, fantasy, historical, etc)
-        - Length (Short, medium, long, specific time)
-            - Based on HowLongToBeat API
-        - Popularity (Trending, top rated)
-        - APIs:
-            - IGDB
-            - HowLongToBeat
-    - Shortcuts:
-        - **Descending (Z-A):** CTRL + PgDn
-        - **Ascending (A-Z):** CTRL + PgUp
+  - Give textbox immediately, show suggestions below
+  - Search by name or genre
+    - Installed games show `✓`
+    - Uninstalled games show no icon
+  - Suggestions based on:
+    - Genre (Shooter, RPG, puzzle, etc)
+    - Setting (Sci-fi, fantasy, historical, etc)
+    - Length (Short, medium, long, specific time)
+      - Based on HowLongToBeat API
+    - Popularity (Trending, top rated)
+    - APIs:
+      - IGDB
+      - HowLongToBeat
+  - Shortcuts:
+    - **Descending (Z-A):** CTRL + PgDn
+    - **Ascending (A-Z):** CTRL + PgUp
 
 - **Launchers**
-    - Steam
-    - Lutris
-    - Heroic Games Launcher
-    - Bottles
-    - Native Linux games
+  - Steam
+  - Lutris
+  - Heroic Games Launcher
+  - Bottles
+  - Native Linux games
 
 - **Installed games**
-    - List of all installed games
-    - Display game details:
-        - Cover art
-        - Description
-        - Playtime tracking
-        - Achievements
-        - Launch options (native, via launcher, custom arguments)
-        - Add to favorites
-    - Shortcuts:
-        - **Descending (Z-A, highest to lowest playtime, newest to oldest played, newest to oldest installed):** CTRL + PgDn
-        - **Ascending (A-Z, lowest to highest playtime, oldest to newest played, oldest to newest installed):** CTRL + PgUp
+  - List of all installed games
+  - Display game details:
+    - Cover art
+    - Description
+    - Playtime tracking
+    - Achievements
+    - Launch options (native, via launcher, custom arguments)
+    - Add to favorites
+  - Shortcuts:
+    - **Descending (Z-A, highest to lowest playtime, newest to oldest played, newest to oldest installed):** CTRL + PgDn
+    - **Ascending (A-Z, lowest to highest playtime, oldest to newest played, oldest to newest installed):** CTRL + PgUp
 
 - **Settings**
-    - See [Settings](../Settings/README.md)
+  - See [Settings](../Settings/README.md)
 
 ## Example user flows
 
@@ -63,7 +67,7 @@
     1. Press **Super + G**
     2. Select **Installed games**
     3. Select the game
-    2. Select **Achievements**
+    4. Select **Achievements**
 
 - **Discover new games:**  
     1. Press **Super**
