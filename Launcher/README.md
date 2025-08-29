@@ -22,7 +22,7 @@ Super
     - Descriptions
     - Categories
 
-## [Quick tools](Quick%20tools/README.md)
+## [Tools](Tools/README.md)
 
 **Shortcut:** Super + T
 
