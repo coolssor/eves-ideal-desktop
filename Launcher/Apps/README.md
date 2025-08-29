@@ -1,4 +1,4 @@
-# Games
+# Apps
 
 [Go back](../README.md)
 
