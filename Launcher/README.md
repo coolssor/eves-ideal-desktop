@@ -11,7 +11,7 @@
 
 Super
 
-## Apps
+## [Apps](Apps/README.md)
 
 **Shortcut:** Super + A
 
@@ -22,7 +22,7 @@ Super
     - Descriptions
     - Categories
 
-## Quick tools
+## [Quick tools](Quick%20tools/README.md)
 
 **Shortcut:** Super + T
 
@@ -59,7 +59,7 @@ Super
   - All of the above + etc
   - Use IGDB and HowLongToBeat APIs
 
-## Settings
+## [Settings](Settings/README.md)
 
 **Shortcut:** Super + S
 
