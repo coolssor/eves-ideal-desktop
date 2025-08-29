@@ -15,6 +15,7 @@ Super + S
 
 ### Appearance
 
+- Display
 - Presets
 - Backgrounds
   - Automatic
@@ -31,3 +32,38 @@ Super + S
 
 - Network
 - Bluetooth
+
+### Apps
+
+- Default apps
+- App permissions
+- App updates
+
+### Devices
+
+- Display
+- Keyboard
+- Mouse
+- Touchpad
+- Touchscreen
+- Controller
+- Printers & scanners
+
+### Gaming
+
+- Game library
+  - Steam
+  - Heroic Games Launcher
+  - Lutris
+- Updates
+- Controller
+
+### System
+
+- System information
+- Updates
+- Power
+- Storage
+- Privacy
+- Accessibility
+- Security
