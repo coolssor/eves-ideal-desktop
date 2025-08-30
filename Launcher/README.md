@@ -45,6 +45,10 @@ Super
 - Emojis
   - **Shortcut:** Super + .
 
+## [Files](Files/README.md)
+
+**Shortcut:** Super + F
+
 ## [Games](Games/README.md)
 
 **Shortcut:** Super + G
