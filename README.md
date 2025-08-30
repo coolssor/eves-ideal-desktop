@@ -6,17 +6,28 @@ This is currently just a concept. I'm by no means a developer of any calibre, I'
 
 ## Principles
 
-### Universal
-
-Eve's Ideal Interface is universal. All menus should be usable from any interface device, whether it be only keyboard, mouse, touch, or controller.
-
 ### Dynamic
 
 The information and interface presented to the user should be dynamic. It should change based on user habits, preferences, and context.
 
+- The system should learn what's used most frequently and prioritize them in the launcher.
+- The layout should adapt based on the user's current context (e.g., gaming, productivity, mobile, desktop).
+- The interface should be usable with different input methods (e.g., touch, mouse, keyboard, controller).
+
+### Efficient
+
+The interface should allow users to complete tasks with minimal effort and time.
+
+- Actions should be able to be completed in as few steps as possible.
+- The interface should minimize distractions and unnecessary elements.
+
 ### Intuitive
 
 Users should be able to navigate and interact with the interface without confusion or frustration.
+
+- The interface should provide clear instructions for actions.
+- UI elements should be consistent and predictable across different contexts.
+- The interface should feel physical and responsive to user input.
 
 ## Components
 
