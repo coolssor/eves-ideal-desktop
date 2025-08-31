@@ -30,6 +30,4 @@ Users should be able to navigate and interact with the interface without confusi
 - UI elements should be consistent and predictable across different contexts.
 - There should be multiple ways to accomplish the same task.
 
-## Components
-
-- [Launcher](Docs/Launcher/README.md)
+## [Documentation](Docs/README.md)
