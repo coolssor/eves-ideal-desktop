@@ -1,5 +1,7 @@
 # Documentation standards
 
+[Go back](README.md)
+
 ## Introduction
 
 This document goes over the standards for writing documentation in this project. They'll help ensure that it's clear and consistent.
