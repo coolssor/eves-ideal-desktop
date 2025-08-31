@@ -1,5 +1,7 @@
 # List of all shortcuts
 
+[Go back](README.md)
+
 - Launcher: Super
 - Apps: Super + A
   - Web browser: Super + W
