@@ -6,15 +6,15 @@
   - Email client: Super + E
 - Tools: Super + T
   - Help: Super + H
-  - Colour picker: Super + C
+  - Color picker: Super + C
   - Screenshot: Print
   - Screen recorder: Super + Print
   - Calculator: Super + NumLk
   - Clipboard: Super + V
   - Notes: Super + N
   - System monitor: Ctrl + Alt + Del
-  - Passwords and keys (Bitwarden): Super + P
-  - Emojis: Super + .
+  - Passwords manager: Super + P
+  - Emoji picker: Super + .
   - Terminal: Super + Return
 - Files: Super + F
 - Games: Super + G

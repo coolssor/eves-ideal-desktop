@@ -15,7 +15,7 @@ Super + T
 
 - **Help**
   - **Shortcut:** Super + H
-- **Colour picker**
+- **Color picker**
   - **Shortcut:** Super + C
 - **Screenshot**
   - **Shortcut:** Print
@@ -29,9 +29,9 @@ Super + T
   - **Shortcut:** Super + N
 - **System monitor**
   - **Shortcut:** Ctrl + Alt + Del
-- **Passwords and keys (Bitwarden)**
+- **Password manager**
   - **Shortcut:** Super + P
-- **Emojis**
+- **Emoji picker**
   - **Shortcut:** Super + .
 - **Terminal**
   - **Shortcut:** Super + Return
