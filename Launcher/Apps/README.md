@@ -41,8 +41,12 @@ Super + A
     - **Descending (Z-A, highest to lowest usage, newest to oldest installed):** CTRL + PgDn
     - **Ascending (A-Z, lowest to highest usage, oldest to newest installed):** CTRL + PgUp
 
-- **Settings**
-  - See [Settings](../Settings/README.md)
+- [**Settings**](../Settings/README.md#apps)
+  - **Default apps**
+    - Web browser
+      - **Shortcut:** Super + W
+    - Email client
+      - **Shortcut:** Super + E
 
 ## Example user flows
 

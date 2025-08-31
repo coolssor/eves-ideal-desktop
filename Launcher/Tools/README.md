@@ -33,5 +33,4 @@ Super + T
   - **Shortcut:** Super + .
 - **Terminal**
   - **Shortcut:** Super + Return
-- **Settings**
-  - See [Settings](../Settings/README.md)
+- [**Settings**](../Settings/README.md#tools)

@@ -36,6 +36,8 @@ Super + S
 ### Apps
 
 - Default apps
+  - Web browser
+  - Email client
 - App permissions
 - App updates
 
