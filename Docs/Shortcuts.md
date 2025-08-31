@@ -1,0 +1,21 @@
+# List of all shortcuts
+
+- Launcher: Super
+- Apps: Super + A
+  - Web browser: Super + W
+  - Email client: Super + E
+- Tools: Super + T
+  - Help: Super + H
+  - Colour picker: Super + C
+  - Screenshot: Print
+  - Screen recorder: Super + Print
+  - Calculator: Super + NumLk
+  - Clipboard: Super + V
+  - Notes: Super + N
+  - System monitor: Ctrl + Alt + Del
+  - Passwords and keys (Bitwarden): Super + P
+  - Emojis: Super + .
+  - Terminal: Super + Return
+- Files: Super + F
+- Games: Super + G
+- Settings: Super + S

@@ -26,6 +26,8 @@ Super
 
 **Shortcut:** Super + T
 
+- Help
+  - **Shortcut:** Super + H
 - Colour picker
   - **Shortcut:** Super + C
 - Screenshot
@@ -39,7 +41,7 @@ Super
 - Notes
   - **Shortcut:** Super + N
 - System monitor
-  - **Shortcut:** Super + M
+  - **Shortcut:** Ctrl + Alt + Del
 - Passwords and keys (Bitwarden)
   - **Shortcut:** Super + P
 - Emojis

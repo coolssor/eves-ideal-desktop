@@ -32,4 +32,4 @@ Users should be able to navigate and interact with the interface without confusi
 
 ## Components
 
-- [Launcher](Launcher/README.md)
+- [Launcher](Docs/Launcher/README.md)

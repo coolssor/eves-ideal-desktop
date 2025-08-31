@@ -13,6 +13,8 @@ Super + T
 
 ## Sections
 
+- **Help**
+  - **Shortcut:** Super + H
 - **Colour picker**
   - **Shortcut:** Super + C
 - **Screenshot**
@@ -26,7 +28,7 @@ Super + T
 - **Notes**
   - **Shortcut:** Super + N
 - **System monitor**
-  - **Shortcut:** Super + M
+  - **Shortcut:** Ctrl + Alt + Del
 - **Passwords and keys (Bitwarden)**
   - **Shortcut:** Super + P
 - **Emojis**
