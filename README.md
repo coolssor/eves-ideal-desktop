@@ -20,6 +20,7 @@ The interface should allow users to complete tasks with minimal effort and time.
 
 - Actions should be able to be completed in as few steps as possible.
 - The interface should minimize distractions and unnecessary elements.
+- While loading, the system should display information as soon as it's available.
 
 ### Intuitive
 
