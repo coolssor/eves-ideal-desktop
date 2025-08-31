@@ -2,7 +2,7 @@
 
 [Go back](../README.md)
 
-## Table of Contents
+## Table of contents
 
 - [Launcher](Launcher/README.md)
   - [Tools](Launcher/Tools/README.md)
@@ -10,3 +10,4 @@
   - [Games](Launcher/Games/README.md)
   - [Settings](Launcher/Settings/README.md)
 - [Shortcuts](Shortcuts.md)
+- [Documentation standards](Docs/Standards.md)

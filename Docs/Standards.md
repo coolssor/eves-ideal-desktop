@@ -1,0 +1,84 @@
+# Documentation standards
+
+## Introduction
+
+This document goes over the standards for writing documentation in this project. They'll help ensure that it's clear and consistent.
+
+To make referring to rules easier, they follow this format:
+
+- DOC<rule_number>: \<description>
+
+## Rules
+
+### DOC01: Use Markdown
+
+This project uses [Markdown](https://en.wikipedia.org/wiki/Markdown) to format documentation. Markdown is a lightweight markup language that makes it easy to create formatted text using a simple text editor.
+
+It also uses [markdownlint](https://github.com/DavidAnson/markdownlint) by David Anson to make documentation consistent and easy to read.
+
+When referring to markdownlint rules, use the format "MD<rule_number>". A full list of rules can be found in the [markdownlint documentation](https://github.com/DavidAnson/markdownlint/tree/main/doc).
+
+### DOC02: Use simple language
+
+Use simple, straightforward language to make documentation more accessible.
+
+- Use "help" instead of "assistance".
+- "The system should have numerous pathways to accomplish the same task, without ambiguity" becomes "There should be multiple ways to do the same task."
+
+### DOC03: Use generic terms
+
+Use generic terms instead of specific product names to make documentation more dynamic.
+
+- Use "password manager" instead of "Bitwarden"
+- If referring to a product or service, use its name.
+
+### DOC04: Organize content with headings
+
+Headings are used to structure content and make it easier to read.
+
+- Use headings to break up content into sections.
+- Use a levels for headings (e.g., H1 or # for the main heading, H2 or ## for main sections, H3 or ### for subsections, etc.).
+
+### DOC05: Use sentence case
+
+Sentence case is when the first letter of the first word is capitalized, and all other words are lowercase (except for [proper nouns](https://en.wikipedia.org/wiki/Proper_noun)).
+
+- "THIS IS A HEADING" becomes "This is a heading"
+- "This Is A Subheading" becomes "This is a subheading"
+
+### DOC06: Use American English
+
+American English is the most widely used form of English worldwide. To make documentation accessible to the largest audience, it's used here.
+
+- Use "color" instead of "colour"
+- Use "organize" instead of "organise"
+
+### DOC07: Use the Oxford comma
+
+The Oxford comma is the final comma in a list of 3 or more items, placed before "and" or "or".
+
+- Use "apples, oranges, and bananas" instead of "apples, oranges and bananas"
+- But "apples and bananas" is correct.
+
+### DOC08: Use contractions
+
+Contractions are used to make text more conversational and easier to read.
+
+- Use "don't" instead of "do not"
+- Use "it's" instead of "it is"
+- But don't use contractions that make a word end with a double sound (e.g., "this's").
+
+### DOC09: Use inclusive language
+
+Inclusive language avoids terms that might be biased or insensitive. It aims to be respectful and considerate of all people.
+
+- Use "firefighter" instead of "fireman"
+- Use "police officer" instead of "policeman"
+- Use "they" instead of "he" or "she" when gender's unknown or not needed.
+
+### DOC10: Use "might" instead of "may"
+
+"May" can mean permission, while "might" is for when something is possible. To make things easier, don't use "may".
+
+- "You may be able to complete the task" becomes "You might be able to complete the task".
+- "You may not complete the task" becomes "You're not allowed to complete the task".
