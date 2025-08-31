@@ -10,4 +10,4 @@
   - [Games](Launcher/Games/README.md)
   - [Settings](Launcher/Settings/README.md)
 - [Shortcuts](Shortcuts.md)
-- [Documentation standards](Docs/Standards.md)
+- [Documentation standards](Standards.md)
