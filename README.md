@@ -8,7 +8,7 @@ This is currently just a concept. I'm by no means a developer of any calibre, I'
 
 ### Dynamic
 
-The information and interface presented to the user should be dynamic. It should change based on user habits, preferences, and context.
+The information and interface presented to the user should change based on user habits, preferences, and context.
 
 - The system should learn what's used most frequently and prioritize them in the launcher.
 - The layout should adapt based on the user's current context (e.g., gaming, productivity, mobile, desktop).
