@@ -11,3 +11,4 @@
   - [Settings](Launcher/Settings/README.md)
 - [Shortcuts](Shortcuts.md)
 - [Documentation standards](Standards.md)
+- [Obsolete documentation](Obsolete/README.md)
