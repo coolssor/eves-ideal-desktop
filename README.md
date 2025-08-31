@@ -27,7 +27,7 @@ Users should be able to navigate and interact with the interface without confusi
 
 - The interface should provide clear instructions for actions.
 - UI elements should be consistent and predictable across different contexts.
-- The interface should feel physical and responsive to user input.
+- There should be multiple ways to accomplish the same task.
 
 ## Components
 
