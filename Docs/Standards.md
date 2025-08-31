@@ -10,6 +10,8 @@ To make referring to rules easier, they follow this format:
 
 - DOC<rule_number>: \<description>
 
+When removing a rule, the number will be reserved to prevent conflicts.
+
 ## Rules
 
 ### DOC01: Use Markdown
