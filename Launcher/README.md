@@ -44,6 +44,8 @@ Super
   - **Shortcut:** Super + P
 - Emojis
   - **Shortcut:** Super + .
+- Terminal
+  - **Shortcut:** Super + Return
 
 ## [Files](Files/README.md)
 

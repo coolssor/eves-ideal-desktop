@@ -31,5 +31,7 @@ Super + T
   - **Shortcut:** Super + P
 - **Emojis**
   - **Shortcut:** Super + .
+- **Terminal**
+  - **Shortcut:** Super + Return
 - **Settings**
   - See [Settings](../Settings/README.md)
