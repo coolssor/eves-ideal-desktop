@@ -10,7 +10,7 @@ To make referring to rules easier, they follow this format:
 
 - DOC<rule_number>: \<description>
 
-When removing a rule, the number will be reserved to prevent conflicts.
+When removing a rule, the number will be reserved to prevent conflicts and moved to the [obsolete documentation standards](Obsolete/Standards.md).
 
 ## Rules
 
@@ -86,3 +86,44 @@ Inclusive language avoids terms that might be biased or insensitive. It aims to 
 
 - "You may be able to complete the task" becomes "You might be able to complete the task".
 - "You may not complete the task" becomes "You're not allowed to complete the task".
+
+### DOC11: Use folders as subpages
+
+When organizing documentation, use folders to create subpages for related content. This helps keep the documentation structured and easy to navigate.
+
+The main page should be titled `README.md`. This makes GitHub use it as the default landing page for the folder.
+
+```text
+Project
+Project/Docs
+Project/Docs/README.md
+Project/Docs/Standards.md
+Project/Docs/Shortcuts.md
+Project/Docs/Launcher
+Project/Docs/Launcher/README.md
+Project/Docs/Launcher/Apps
+Project/Docs/Launcher/Apps/README.md
+...
+```
+
+### DOC12: Include a back link
+
+Always include a back link to the main documentation page at the end of each document.
+
+There's a few ways to do this:
+
+- For the main README page of a folder:
+
+  ```markdown
+  [Go back](../README.md)
+  ```
+
+  - This navigates back to the parent folder.
+
+- For other pages in the same folder:
+
+  ```markdown
+  [Go back](README.md)
+  ```
+
+  - This navigates back to the main page of the folder.
