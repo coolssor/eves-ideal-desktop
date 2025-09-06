@@ -66,11 +66,11 @@ The Oxford comma is the final comma in a list of 3 or more items, placed before 
 
 ### DOC08: Use contractions
 
-Contractions are used to make text more conversational and easier to read.
+Contractions are used to make text more conversational and easier to read. However, avoid contractions that have double sounds.
 
 - Use "don't" instead of "do not"
 - Use "it's" instead of "it is"
-- But don't use contractions that make a word end with a double sound (e.g., "this's").
+- Don't use "this's" or "there're".
 
 ### DOC09: Use inclusive language
 
@@ -127,3 +127,25 @@ There's a few ways to do this:
   ```
 
   - This navigates back to the main page of the folder.
+
+### DOC13: Avoid Latin abbreviations
+
+Use full words, different formatting or reword your sentence instead of using Latin abbreviations to make documentation clearer.
+
+- Use "for example" instead of "e.g."
+- Use a colon, comma or em-dash instead of "i.e."
+- "There's many ways you can do this, e.g.:" becomes "There's many ways you can do this, for example:"
+
+### DOC14: Avoid double sounds in pairs of words
+
+Avoid using pairs of words that create a double sound. They can be confusing or awkward when read out loud.
+
+- Use "there's" instead of "there are"
+- "You can see each file that is stored on the operating system." becomes "You can see every file that's stored on the operating system."
+
+### DOC15: Write instructions from a user's perspective
+
+When writing instructions, use a user's perspective to make them more relatable and easier to follow.
+
+- Use "you" instead of "the user."
+- Use "your" instead of "the user's."
