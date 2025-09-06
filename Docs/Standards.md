@@ -27,7 +27,7 @@ When referring to markdownlint rules, use the format "MD<rule_number>". A full l
 Use simple, straightforward language to make documentation more accessible.
 
 - Use "help" instead of "assistance".
-- "The system should have numerous pathways to accomplish the same task, without ambiguity" becomes "There should be multiple ways to do the same task."
+- "The system should have numerous pathways to accomplish the same task, without ambiguity" becomes "There should be multiple ways you can do the same task."
 
 ### DOC03: Use generic terms
 
@@ -66,7 +66,7 @@ The Oxford comma is the final comma in a list of 3 or more items, placed before 
 
 ### DOC08: Use contractions
 
-Contractions are used to make text more conversational and easier to read. However, avoid contractions that have double sounds.
+Contractions are used to make text more conversational and easier to read. However, avoid contractions that have double sounds, or when it makes the text vague.
 
 - Use "don't" instead of "do not"
 - Use "it's" instead of "it is"
@@ -78,7 +78,7 @@ Inclusive language avoids terms that might be biased or insensitive. It aims to 
 
 - Use "firefighter" instead of "fireman"
 - Use "police officer" instead of "policeman"
-- Use "they" instead of "he" or "she" when gender's unknown or not needed.
+- Use "they" instead of "he" or "she" when gender is unknown or not needed.
 
 ### DOC10: Use "might" instead of "may"
 
@@ -110,7 +110,7 @@ Project/Docs/Launcher/Apps/README.md
 
 Always include a back link to the main documentation page at the end of each document.
 
-There's a few ways to do this:
+There's a few ways you can do this:
 
 - For the main README page of a folder:
 
@@ -145,7 +145,8 @@ Avoid using pairs of words that create a double sound. They can be confusing or 
 
 ### DOC15: Write instructions from a user's perspective
 
-When writing instructions, use a user's perspective to make them more relatable and easier to follow.
+When writing instructions for a task that the user can do, use a user's perspective to make them more relatable and easier to follow.
 
 - Use "you" instead of "the user."
 - Use "your" instead of "the user's."
+- Don't use "you can" when talking about a system's capabilities.
